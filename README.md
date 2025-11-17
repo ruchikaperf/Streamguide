@@ -17,7 +17,7 @@ STREAM, by Dr. John McCalpin ([source](https://www.cs.virginia.edu/stream/FTP/Co
 | Add    | A = B + C | Two loads + one store |
 | Triad  | A = B + scalar × C | HPC-like workload |
 
-👉 Compare **TRIAD** bandwidth to theoretical peak.
+Compare **TRIAD** bandwidth to theoretical peak.
 
 ---
 
